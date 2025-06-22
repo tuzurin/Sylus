@@ -798,7 +798,10 @@ i[class^="icon-"] {
         padding-bottom: 32.25%;
     }
 
+    .character {
 
+        bottom: 35rem;
+    }
 
     #sliderA {
         background-position: -250px center;
@@ -838,6 +841,11 @@ i[class^="icon-"] {
 @media (max-width:992px) {
     .margin-btm-20 {
         margin-bottom: 20px;
+    }
+
+    .character {
+
+        bottom: 55rem;
     }
 }
 
